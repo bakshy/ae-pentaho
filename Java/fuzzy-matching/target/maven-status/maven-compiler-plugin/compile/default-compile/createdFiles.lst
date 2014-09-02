@@ -1,0 +1,12 @@
+com/mapreduce/Mapper2.class
+com/mapreduce/TextPair.class
+com/mapreduce/Mapper1.class
+com/entity/LevenshteinDistance.class
+com/entity/Person.class
+com/entity/PersonsDistance.class
+com/mapreduce/JoinReducer.class
+com/mapreduce/TextPair$Comparator.class
+com/mapreduce/TextPair$FirstComparator.class
+com/mapreduce/Excecutor.class
+com/entity/PersonRecordParser.class
+com/mapreduce/Excecutor$KeyPartitioner.class

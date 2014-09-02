@@ -1,0 +1,9 @@
+/home/user1/workspace/ae-pentaho/Java/fuzzy-matching/src/main/java/com/entity/PersonRecordParser.java
+/home/user1/workspace/ae-pentaho/Java/fuzzy-matching/src/main/java/com/entity/PersonsDistance.java
+/home/user1/workspace/ae-pentaho/Java/fuzzy-matching/src/main/java/com/entity/LevenshteinDistance.java
+/home/user1/workspace/ae-pentaho/Java/fuzzy-matching/src/main/java/com/mapreduce/Mapper2.java
+/home/user1/workspace/ae-pentaho/Java/fuzzy-matching/src/main/java/com/mapreduce/Excecutor.java
+/home/user1/workspace/ae-pentaho/Java/fuzzy-matching/src/main/java/com/mapreduce/TextPair.java
+/home/user1/workspace/ae-pentaho/Java/fuzzy-matching/src/main/java/com/mapreduce/JoinReducer.java
+/home/user1/workspace/ae-pentaho/Java/fuzzy-matching/src/main/java/com/mapreduce/Mapper1.java
+/home/user1/workspace/ae-pentaho/Java/fuzzy-matching/src/main/java/com/entity/Person.java
