@@ -27,7 +27,9 @@ mvn assembly:single
 
 ## Run
 
+
 %> hadoop jar /fuzzy-matching/target/fuzzy-matching-1.0-jar-with-dependencies.jar /in/data1 /in/data2 /out
 
 ```
+test
 
